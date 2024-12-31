@@ -11,8 +11,10 @@ assignees: ''
 ![](https://placehold.co/200x150)
 
 ### Checklist:
-- [ ] item
-- [ ] item
-- [ ] item
+- [ ] Mobile first approach
+- [ ] Responsive testing (mobile, tablet, desktop)
+- [ ] Include links to live site, tested
+- [ ] Accessibility compliant
+- [ ] Optimized for performance (lazy loading, LCP etc.)
 
 ### Ref:
